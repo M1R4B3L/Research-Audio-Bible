@@ -4,9 +4,7 @@ I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CI
 
 ## What exactly is an Audio Bible?
 
-```**
-What the names suggests is
-```
+
 
 ## 
 
