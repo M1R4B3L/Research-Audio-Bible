@@ -71,26 +71,24 @@ Some games can help you develop and surpass a situation they have already handle
 
 ## Audio organization 
 
-
+## Examples
+[Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
 
 ## References
-(https://www.asoundeffect.com/game-audio-design-document/)
-(https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
-(http://zacharyquarles.com/blog/?p=518)
-(https://www.asoundeffect.com/game-audio-design-document/)
-(https://annesoaudio.com/2016/07/07/game-audio-asset-naming-and-organisation/)
+[Guide by Zachary Quarles](https://www.asoundeffect.com/game-audio-design-document/)
+[Guide by Zachary Quarles](http://zacharyquarles.com/blog/?p=518)
+[Interview with Aram Shahbazians](https://professionalcomposers.com/sound-design-for-video-games/)
+[Guide Lines](http://www.dreamquakestudios.com/ADD.html)
+[Tips for Sound Desing](https://gameanalytics.com/blog/9-sound-design-tips-to-improve-your-games-audio.html)
+[Evolution of audio](https://altagram.com/es/music-sound-design-video-games/)
 [Book](https://books.google.es/books?id=gnw0Zb4St-wC&pg=PA89&lpg=PA89&dq=audio+design+document+(add)+responsable&source=bl&ots=4cmXkwxntF&sig=ACfU3U0viWwpUndyN551hSTlHPfxwWd2Iw&hl=es&sa=X&ved=2ahUKEwiIzqCw4P7nAhUL6OAKHWm9DrQQ6AEwAXoECAoQAQ#v=onepage&q&f=false)
-(https://www.gamasutra.com/view/feature/131818/the_anatomy_of_a_design_document_.php?page=3)
-(https://professionalcomposers.com/sound-design-for-video-games/)
-(http://www.dreamquakestudios.com/ADD.html)
-(https://gameanalytics.com/blog/9-sound-design-tips-to-improve-your-games-audio.html)
-(https://altagram.com/es/music-sound-design-video-games/)
-(https://www.gamasutra.com/view/feature/131261/design_with_music_in_mind_a_guide_.php)
 [Book](http://ptgmedia.pearsoncmg.com/images/9780321961587/samplepages/9780321961587.pdf)
+[Audio Organization](https://annesoaudio.com/2016/07/07/game-audio-asset-naming-and-organisation/)
+[Template](https://docs.google.com/spreadsheets/d/1Nbn7e6UWmtJ4XOHbYsWqGUJNTdJXgSUZLlATrdIarSM/edit#gid=0)
 
 ## Interesting conferences
-(https://www.youtube.com/watch?v=7p9rqo2I_Hs)
-(https://www.youtube.com/watch?v=HLOmk6ly_CE&t=829s)
+[Jonathan Wayer](https://www.youtube.com/watch?v=7p9rqo2I_Hs)
+[Bjørn Jacobsen](https://www.youtube.com/watch?v=HLOmk6ly_CE&t=829s)
 
 
 
