@@ -60,6 +60,37 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 
 **_Player/Creatures/Enemies:_** The player is going to have a voice, the enemies? The creatures are voice modifications?
 
+### - Technology:
+You need to take into account the platform you are creating the game for.
+In this part you should talk about how the sound is going to be implemented in your game, audio transitions and spatial music is a good option for your project. Your music is going to loop? How are you going to handle the superposition of the audio?
+A good way to handle your music is diving it in Layers at least 4 layers explaining in each one what are you going to reproduce there.
+
 ### - Reference Material
 
 Some games can help you develop and surpass a situation they have already handled. 
+
+## Audio organization 
+
+
+
+## References
+(https://www.asoundeffect.com/game-audio-design-document/)
+(https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
+(http://zacharyquarles.com/blog/?p=518)
+(https://www.asoundeffect.com/game-audio-design-document/)
+(https://annesoaudio.com/2016/07/07/game-audio-asset-naming-and-organisation/)
+[Book](https://books.google.es/books?id=gnw0Zb4St-wC&pg=PA89&lpg=PA89&dq=audio+design+document+(add)+responsable&source=bl&ots=4cmXkwxntF&sig=ACfU3U0viWwpUndyN551hSTlHPfxwWd2Iw&hl=es&sa=X&ved=2ahUKEwiIzqCw4P7nAhUL6OAKHWm9DrQQ6AEwAXoECAoQAQ#v=onepage&q&f=false)
+(https://www.gamasutra.com/view/feature/131818/the_anatomy_of_a_design_document_.php?page=3)
+(https://professionalcomposers.com/sound-design-for-video-games/)
+(http://www.dreamquakestudios.com/ADD.html)
+(https://gameanalytics.com/blog/9-sound-design-tips-to-improve-your-games-audio.html)
+(https://altagram.com/es/music-sound-design-video-games/)
+(https://www.gamasutra.com/view/feature/131261/design_with_music_in_mind_a_guide_.php)
+[Book](http://ptgmedia.pearsoncmg.com/images/9780321961587/samplepages/9780321961587.pdf)
+
+## Interesting conferences
+(https://www.youtube.com/watch?v=7p9rqo2I_Hs)
+(https://www.youtube.com/watch?v=HLOmk6ly_CE&t=829s)
+
+
+
