@@ -9,7 +9,7 @@ That collaboration is crucial, being the main problem in indie companies.
 This document is designed to help the audio team, as well as the programmers who will need the document to implement the sound into the game. 
 Keith Zizza in one of his interviews said:
 
-´´´ 
+´´´
 Designers will want to absorb it, programmers will demand it, and producers, along with just anyone else who is involved on the project, will want to at least skim it. Whether it’s one page or one hundred, it should be as descriptive as it needs to be for you and for your development team. The end result, hopefully, is a harmonious one… working with and enhancing graphics, writing, game design, and the overall gaming experience. ( [Keith Ziza](http://keithzizza.com/) 2000).
 ´´´
 
@@ -20,6 +20,22 @@ As I said before it’s a team effort with an attention to detail that puts the 
 This is a list of parameters you need to take into account while selecting/designing your audio.
 
 
+```markdown
+Syntax highlighted code block
 
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 
 
