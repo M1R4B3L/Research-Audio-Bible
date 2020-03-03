@@ -7,7 +7,8 @@ I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CI
 The Audio Bible is a document created by the Audio Director and the Sound Designer; always maintaining a close collaboration with the director of the project, the art team and the design team. ![Zachary Quarles Sound Designer](https://www.google.com/searchq=Zachary+Quarles&rlz=1C1GGRV_enES751ES751&sxsrf=ALeKk03JDt4X8xr01Of_5V4n1VcyiU_zZQ:1583266133016&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj7xsX7jf_nAhVCqxoKHYW3Cq8Q_AUoAXoECAsQAw&biw=1920&bih=975#imgrc=EIh6tBB37SmWYM)
 That collaboration is crucial, being the main problem in indie companies.
 This document is designed to help the audio team, as well as the programmers who will need the document to implement the sound into the game. 
-Keith Zizza in one of his interviews said
+Keith Zizza in one of his interviews said:
+
 ´´´ 
 Designers will want to absorb it, programmers will demand it, and producers, along with just anyone else who is involved on the project, will want to at least skim it. Whether it’s one page or one hundred, it should be as descriptive as it needs to be for you and for your development team. The end result, hopefully, is a harmonious one… working with and enhancing graphics, writing, game design, and the overall gaming experience. ( [Keith Ziza](http://keithzizza.com/) 2000).
 ´´´
