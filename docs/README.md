@@ -50,7 +50,7 @@ A brief description about a set of features that will be taken into account duri
 **_Creatures/Enemies/Obstacles:_** What sort of “encounters” will the player come across?
 Are they small little bunnies? A Gigantic Boss? or a Plant?                                 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.ch%2Fpin%2F733453489286272224%2F&psig=AOvVaw2sKLh4jFqf2JS495TEBKqA&ust=1583365750234000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjBh5u__-cCFQAAAAAdAAAAABAh)
+![](https://www.google.com/search?q=small+or+big+guy+art&tbm=isch&ved=2ahUKEwj1jbOUv__nAhUj1eAKHXdxCTYQ2-cCegQIABAA&oq=small+or+big+guy+art&gs_l=img.3...9594.10199..10815...0.0..0.78.283.4......0....1..gws-wiz-img.8vVzpB60xqo&ei=6uxeXvXwHKOqgwf34qWwAw&bih=975&biw=1920&rlz=1C1GGRV_enES751ES751#imgrc=QjWbR6V-ZesY5M)
 
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
