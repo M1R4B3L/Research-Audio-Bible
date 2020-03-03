@@ -27,18 +27,18 @@ As I said before it’s a team effort with an attention to detail that puts the 
 
 This is a list of parameters/questions you need to take into account while selecting/designing your audio.
 
-- Audio Pillars
+### - Audio Pillars
 
 A brief description about a set of features that will be taken into account during the audiocreation, that define the game’s audio aesthetics. Extremely similar to the ones define in design and art.
 
-- Music
+### - Music
 
 _Genre:_ Description about the theme, Dark for suspense? Medieval?
 _Style:_ Is it a big, bombastic orchestral score or is it a minimalist score that creates more of an ambience?
 _Instrumentation:_ What instruments will be performing the themes that the designers have chosen. There’s a big difference between each instrument and the way it sounds; it definitely can change player’s feels during the game.
 _Implementation:_ Is going to be a single music in a layer and the effects in other one, or is going to be more than one layer for different musics? Is going to change during player actions or game situations?
 
-- Effects
+### - Effects
 
 _Ambience:_ How complex and layered is the world sound that is around the user?Are you on a sci-fi alien planet with moaning winds and twisting thunder crackling around in the skies above? Material?
 _Player:_ Basic player action effect like running, jumping...
@@ -46,12 +46,12 @@ _Creatures/Enemies/Obstacles:_ What sort of “encounters” will the player com
 Are they small little bunnies? A Gigantic Boss? or a Plant?
 _UI elements:_ You need some UI audio triggers for creating a more accessible and fancy to the user.
 
-- Voice Over
+### - Voice Over
 
-_Style:_ This could range from age type, gender type, etc…Each voice has its own collection of frequencies and timbre qualities, so it’s good to know what sort of pool you’ll have.
+**_Style:_** This could range from age type, gender type, etc…Each voice has its own collection of frequencies and timbre qualities, so it’s good to know what sort of pool you’ll have.
 _Visualizations:_ Tutorial dialog? Indications for the user?
 _Player/Creatures/Enemies:_ The player is going to have a voice, the enemies? The creatures are voice modifications?
 
-- Reference Material
+### - Reference Material
 
 Some games can help you develop and surpass a situation they have already handled. 
