@@ -63,7 +63,9 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 **_Player/Creatures/Enemies:_** The player is going to have a voice, the enemies? The creatures are voice modifications?
 
 ### - Technology:
-You need to take into account the platform you are creating the game for.
+You need to take into account the platform you are creating the game for and the sound extension.
+**.OGG** for Music and Dialogs
+**.WAV** for Effects
 In this part you should talk about how the sound is going to be implemented in your game, audio transitions and spatial music is a good option for your project. Your music is going to loop? How are you going to handle the superposition of the audio?
 A good way to handle your music is diving it in Layers at least 4 layers explaining in each one what are you going to reproduce there.
 
