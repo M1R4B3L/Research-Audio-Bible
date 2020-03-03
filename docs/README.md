@@ -48,7 +48,9 @@ A brief description about a set of features that will be taken into account duri
 **_Player:_** Basic player action effect like running, jumping...
 
 **_Creatures/Enemies/Obstacles:_** What sort of “encounters” will the player come across?
-Are they small little bunnies? A Gigantic Boss? or a Plant?
+Are they small little bunnies? A Gigantic Boss? or a Plant?                                 
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.ch%2Fpin%2F733453489286272224%2F&psig=AOvVaw2sKLh4jFqf2JS495TEBKqA&ust=1583365750234000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjBh5u__-cCFQAAAAAdAAAAABAh)
 
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
