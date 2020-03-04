@@ -1,8 +1,17 @@
-# Research-Audio-Bible
-Research Delivery for Project 2
+Template For Audio Bible Research 
+Project 2
 
-BnB - Audio Assets List Template
-Its a template to know if an audio is correctly selected
+# Audio Bible
 
-Template
+## Audio Design
+- Audio Pillars
+- Music
+- Effects
+- Voice Over
+- Technology
+- Reference Material
+
+## Audio organization 
+- Naming
+- Folder organization
 
