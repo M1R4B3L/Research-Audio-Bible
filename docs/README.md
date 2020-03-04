@@ -80,10 +80,13 @@ Some games can help you develop and surpass a situation they have already handle
 
 ## Audio organization 
 Good
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac%20fx.JPG =250x250)
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/issac%20music.JPG =250x250 )
+
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac%20fx.JPG)
+
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/issac%20music.JPG)
 
 Bad
+
 ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/Terraria.JPG)
 
 ## Examples
