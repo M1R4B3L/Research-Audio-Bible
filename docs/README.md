@@ -107,7 +107,7 @@ The naming document have to be shared among all the members of the project.
 Whether you are working as a one person department on your own machine or you are sharing a repository for all the audio assets, a clear way of organising these will be crucial.
 Following the naming you should create your own organization.
 
-Example
+Examples:
 
 ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/audio.PNG)
 
@@ -117,7 +117,7 @@ Example
 ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/category.PNG)
 ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/type.PNG)
 
-Good 
+Good
 
 ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac_fx.jpg)
 
