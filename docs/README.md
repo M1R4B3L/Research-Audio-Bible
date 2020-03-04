@@ -21,7 +21,7 @@ writing, game design, and the overall gaming experience.
 (Keith Ziza 2000).
 ```
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/Team.jpg)
+![Team](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/Team.jpg)
 
 ## How it affects the creation of audio?
 ![Mayer](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/jonathanmayer.jpg)
@@ -54,7 +54,7 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/smallorbig.jpg)
+![Character](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/smallorbig.jpg)
 
 ### Voice Over
 
@@ -68,10 +68,12 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 You need to take into account the platform you are creating the game for and the sound extension.
 
 **.OGG** for Music and Dialogs 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/ogg.png)
+
+![Ogg](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/ogg.png)
 
 **.WAV** for Effects 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/wav.png)
+
+![Wav](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/wav.png)
 
 In this part you should talk about how the sound is going to be implemented in your game, audio transitions and spatial music is a good option for your project. Your music is going to loop? How are you going to handle the superposition of the audio?
 A good way to handle your music is diving it in Layers at least 4 layers explaining in each one what are you going to reproduce there.
@@ -109,23 +111,23 @@ Following the naming you should create your own organization.
 
 Examples:
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/audio.PNG)
+![Audio](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/audio.PNG)
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/music.PNG)
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/fx.PNG)
+![Music](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/music.PNG)
+![Fx](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/fx.PNG)
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/category.PNG)
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/type.PNG)
+![Category](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/category.PNG)
+![Type](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/type.PNG)
 
 Good
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac_fx.jpg)
+![Isaac Fx](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac_fx.jpg)
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/issac_music.jpg)
+![Isaac Music](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/issac_music.jpg)
 
 Bad
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/terraria.jpg)
+![Terraria](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/terraria.jpg)
 
 ## Examples
 [Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
