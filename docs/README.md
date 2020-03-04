@@ -21,19 +21,19 @@ writing, game design, and the overall gaming experience.
 (Keith Ziza 2000).
 ```
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/Team.jpg)
+![Team](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/Team.jpg)
 
 ## How it affects the creation of audio?
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/jonathanmayer.jpg)
+![Mayer](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/jonathanmayer.jpg)
 As I said before it’s a team effort with an attention to detail that puts the audio experience over the top.  When you’re establishing your audio vision, make sure that you are taking the elements of Music, Sound-Design (Effects), Voice-Over, and Technology into account.  Each element has their subcomponents and everything needs to work together to make for the most cohesive experience.  If one element is neglected or “tacked-on”, it can throw your entire audio direction into disarray.
 
 This is a list of parameters/questions you need to take into account while selecting/designing your audio.
 
-### - Audio Pillars
+### Audio Pillars
 
 A brief description about a set of features that will be taken into account during the audiocreation, that define the game’s audio aesthetics. Extremely similar to the ones define in design and art.
 
-### - Music
+### Music
 
 **_Genre:_** Description about the theme, Dark for suspense? Medieval?
 
@@ -43,7 +43,7 @@ A brief description about a set of features that will be taken into account duri
 
 **_Implementation:_** Is going to be a single music in a layer and the effects in other one, or is going to be more than one layer for different musics? Is going to change during player actions or game situations?
 
-### - Effects
+### Effects
 
 **_Ambience:_** How complex and layered is the world sound that is around the user?Are you on a sci-fi alien planet with moaning winds and twisting thunder crackling around in the skies above? Material?
 
@@ -54,9 +54,9 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/smallorbig.jpg)
+![Character](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/smallorbig.jpg)
 
-### - Voice Over
+### Voice Over
 
 **_Style:_** This could range from age type, gender type, etc…Each voice has its own collection of frequencies and timbre qualities, so it’s good to know what sort of pool you’ll have.
 
@@ -64,32 +64,70 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 
 **_Player/Creatures/Enemies:_** The player is going to have a voice, the enemies? The creatures are voice modifications?
 
-### - Technology:
+### Technology:
 You need to take into account the platform you are creating the game for and the sound extension.
 
 **.OGG** for Music and Dialogs 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/ogg.png)
+
+![Ogg](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/ogg.png)
 
 **.WAV** for Effects 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/wav.png)
+
+![Wav](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/wav.png)
 
 In this part you should talk about how the sound is going to be implemented in your game, audio transitions and spatial music is a good option for your project. Your music is going to loop? How are you going to handle the superposition of the audio?
 A good way to handle your music is diving it in Layers at least 4 layers explaining in each one what are you going to reproduce there.
 
-### - Reference Material
+### Reference Material
 
 Some games can help you develop and surpass a situation they have already handled. 
 
 ## Audio organization 
+The most essencial thing in audio is organization, in a game is possible to have more than 1000 sounds; each of them should be structured and accepted by the director, and all the differents leaders. 
+
+### Naming
+In terms of naming, this is again something that can be done in many ways, but I’d say that one of the most important things is that, once you’ve decided on a certain terminology, remain coherent with it. And be careful to name the events in your audio engine exactly the way you named them in your design document. Otherwise you will very rapidly get confused between all those similarly named versions of a same event, and won’t know which one is the correct one to use.
+
+```
+Example: 
+I want no capital letters and the space between words with and underscore
+
+**player_move_water_number (a number may not always be required)**
+
+- First the category. (for example the object type/space)  "player" 
+
+- Second the subcategory. (for example the action type/more specific space) "move"
+
+- Third Description. (add more details about what this event refers to) "water"
+
+- Last number. (there are more than 1 sound) "?"
+```
+The naming document have to be shared among all the members of the project.
+
+
+### Folder organization
+Whether you are working as a one person department on your own machine or you are sharing a repository for all the audio assets, a clear way of organising these will be crucial.
+Following the naming you should create your own organization.
+
+Examples:
+
+![Audio](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/audio.PNG)
+
+![Music](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/music.PNG)
+![Fx](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/fx.PNG)
+
+![Category](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/category.PNG)
+![Type](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/type.PNG)
+
 Good
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac_fx.jpg)
+![Isaac Fx](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac_fx.jpg)
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/issac_music.jpg)
+![Isaac Music](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/issac_music.jpg)
 
 Bad
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/terraria.jpg)
+![Terraria](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/terraria.jpg)
 
 ## Examples
 [Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
