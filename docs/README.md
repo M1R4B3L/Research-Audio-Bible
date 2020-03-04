@@ -29,11 +29,11 @@ As I said before it’s a team effort with an attention to detail that puts the 
 
 This is a list of parameters/questions you need to take into account while selecting/designing your audio.
 
-### - Audio Pillars
+### Audio Pillars
 
 A brief description about a set of features that will be taken into account during the audiocreation, that define the game’s audio aesthetics. Extremely similar to the ones define in design and art.
 
-### - Music
+### Music
 
 **_Genre:_** Description about the theme, Dark for suspense? Medieval?
 
@@ -43,7 +43,7 @@ A brief description about a set of features that will be taken into account duri
 
 **_Implementation:_** Is going to be a single music in a layer and the effects in other one, or is going to be more than one layer for different musics? Is going to change during player actions or game situations?
 
-### - Effects
+### Effects
 
 **_Ambience:_** How complex and layered is the world sound that is around the user?Are you on a sci-fi alien planet with moaning winds and twisting thunder crackling around in the skies above? Material?
 
@@ -56,7 +56,7 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 
 ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/smallorbig.jpg)
 
-### - Voice Over
+### Voice Over
 
 **_Style:_** This could range from age type, gender type, etc…Each voice has its own collection of frequencies and timbre qualities, so it’s good to know what sort of pool you’ll have.
 
@@ -64,7 +64,7 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 
 **_Player/Creatures/Enemies:_** The player is going to have a voice, the enemies? The creatures are voice modifications?
 
-### - Technology:
+### Technology:
 You need to take into account the platform you are creating the game for and the sound extension.
 
 **.OGG** for Music and Dialogs 
@@ -76,7 +76,7 @@ You need to take into account the platform you are creating the game for and the
 In this part you should talk about how the sound is going to be implemented in your game, audio transitions and spatial music is a good option for your project. Your music is going to loop? How are you going to handle the superposition of the audio?
 A good way to handle your music is diving it in Layers at least 4 layers explaining in each one what are you going to reproduce there.
 
-### - Reference Material
+### Reference Material
 
 Some games can help you develop and surpass a situation they have already handled. 
 
