@@ -24,7 +24,7 @@ writing, game design, and the overall gaming experience.
 ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/Team.jpg)
 
 ## How it affects the creation of audio?
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/jonathanmayer.jpg)
+![Hi](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/jonathanmayer.jpg)
 As I said before it’s a team effort with an attention to detail that puts the audio experience over the top.  When you’re establishing your audio vision, make sure that you are taking the elements of Music, Sound-Design (Effects), Voice-Over, and Technology into account.  Each element has their subcomponents and everything needs to work together to make for the most cohesive experience.  If one element is neglected or “tacked-on”, it can throw your entire audio direction into disarray.
 
 This is a list of parameters/questions you need to take into account while selecting/designing your audio.
