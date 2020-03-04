@@ -119,13 +119,13 @@ Examples:
 ![Category](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/category.PNG)
 ![Type](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/type.PNG)
 
-Good
+Good: It has his own naming criteria and follows a folder organization.
 
 ![Isaac Fx](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac_fx.jpg)
 
 ![Isaac Music](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/issac_music.jpg)
 
-Bad
+Bad:  It has his own naming criteria but does not follows a folder organization (Everything is in the same folder)
 
 ![Terraria](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/terraria.jpg)
 
