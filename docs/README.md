@@ -79,6 +79,12 @@ A good way to handle your music is diving it in Layers at least 4 layers explain
 Some games can help you develop and surpass a situation they have already handled. 
 
 ## Audio organization 
+Good
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac%20fx.JPG)
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/issac%20music.JPG)
+
+Bad
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/Terraria.JPG)
 
 ## Examples
 [Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
