@@ -4,8 +4,6 @@ I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CI
 
 ## Who is responsible for the creation of the Audio Bible?
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/jonathanmayer.jpg)
-
 The Audio Bible is a document created by the Audio Director and the Sound Designer; always maintaining a close collaboration with the director of the project, the art team and the design team.
 That collaboration is crucial, being the main problem in indie companies.
 This document is designed to help the audio team, as well as the programmers who will need the document to implement the sound into the game. 
@@ -24,7 +22,7 @@ writing, game design, and the overall gaming experience.
 ```
 
 ## How it affects the creation of audio?
-
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/jonathanmayer.jpg)
 As I said before it’s a team effort with an attention to detail that puts the audio experience over the top.  When you’re establishing your audio vision, make sure that you are taking the elements of Music, Sound-Design (Effects), Voice-Over, and Technology into account.  Each element has their subcomponents and everything needs to work together to make for the most cohesive experience.  If one element is neglected or “tacked-on”, it can throw your entire audio direction into disarray.
 
 This is a list of parameters/questions you need to take into account while selecting/designing your audio.
