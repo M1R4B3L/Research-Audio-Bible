@@ -82,6 +82,12 @@ A good way to handle your music is diving it in Layers at least 4 layers explain
 
 Some games can help you develop and surpass a situation they have already handled. 
 
+## Audio Creation
+
+### Tools
+
+### 
+
 ## Audio organization 
 The most essencial thing in audio is organization, in a game is possible to have more than 1000 sounds; each of them should be structured and accepted by the director, and all the differents leaders. 
 
