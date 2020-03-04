@@ -21,6 +21,8 @@ writing, game design, and the overall gaming experience.
 (Keith Ziza 2000).
 ```
 
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/Team.jpg)
+
 ## How it affects the creation of audio?
 ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/jonathanmayer.jpg)
 As I said before it’s a team effort with an attention to detail that puts the audio experience over the top.  When you’re establishing your audio vision, make sure that you are taking the elements of Music, Sound-Design (Effects), Voice-Over, and Technology into account.  Each element has their subcomponents and everything needs to work together to make for the most cohesive experience.  If one element is neglected or “tacked-on”, it can throw your entire audio direction into disarray.
@@ -50,7 +52,7 @@ A brief description about a set of features that will be taken into account duri
 **_Creatures/Enemies/Obstacles:_** What sort of “encounters” will the player come across?
 Are they small little bunnies? A Gigantic Boss? or a Plant?                                 
 
-![](https://www.google.com/search?q=small+or+big+guy+art&tbm=isch&ved=2ahUKEwj1jbOUv__nAhUj1eAKHXdxCTYQ2-cCegQIABAA&oq=small+or+big+guy+art&gs_l=img.3...9594.10199..10815...0.0..0.78.283.4......0....1..gws-wiz-img.8vVzpB60xqo&ei=6uxeXvXwHKOqgwf34qWwAw&bih=975&biw=1920&rlz=1C1GGRV_enES751ES751#imgrc=QjWbR6V-ZesY5M)
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/smallorbig.jpg)
 
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
