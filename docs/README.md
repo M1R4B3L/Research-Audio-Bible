@@ -81,7 +81,43 @@ A good way to handle your music is diving it in Layers at least 4 layers explain
 Some games can help you develop and surpass a situation they have already handled. 
 
 ## Audio organization 
-Good
+The most essencial thing in audio is organization, in a game is possible to have more than 1000 sounds; each of them should be structured and accepted by the director, and all the differents leaders. 
+
+### Naming
+In terms of naming, this is again something that can be done in many ways, but I’d say that one of the most important things is that, once you’ve decided on a certain terminology, remain coherent with it. And be careful to name the events in your audio engine exactly the way you named them in your design document. Otherwise you will very rapidly get confused between all those similarly named versions of a same event, and won’t know which one is the correct one to use.
+
+```
+Example: 
+I want no capital letters and the space between words with and underscore
+
+**player_move_water_number (a number may not always be required)**
+
+- First the category. (for example the object type/space)  "player" 
+
+- Second the subcategory. (for example the action type/more specific space) "move"
+
+- Third Description. (add more details about what this event refers to) "water"
+
+- Last number. (there are more than 1 sound) "?"
+```
+The naming document have to be shared among all the members of the project.
+
+
+### Folder organization
+Whether you are working as a one person department on your own machine or you are sharing a repository for all the audio assets, a clear way of organising these will be crucial.
+Following the naming you should create your own organization.
+
+Example
+
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/audio.PNG)
+
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/music.PNG)
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/fx.PNG)
+
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/category.PNG)
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/type.PNG)
+
+Good 
 
 ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac_fx.jpg)
 
