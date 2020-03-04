@@ -67,9 +67,11 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 ### - Technology:
 You need to take into account the platform you are creating the game for and the sound extension.
 
-**.OGG** for Music and Dialogs ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/ogg.png)
+**.OGG** for Music and Dialogs 
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/ogg.png)
 
-**.WAV** for Effects ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/wav.png)
+**.WAV** for Effects 
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/wav.png)
 
 In this part you should talk about how the sound is going to be implemented in your game, audio transitions and spatial music is a good option for your project. Your music is going to loop? How are you going to handle the superposition of the audio?
 A good way to handle your music is diving it in Layers at least 4 layers explaining in each one what are you going to reproduce there.
@@ -83,11 +85,11 @@ Good
 
 ![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac_fx.jpg)
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/issac%20music.JPG)
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/issac_music.jpg)
 
 Bad
 
-![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/Terraria.JPG)
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/terraria.jpg)
 
 ## Examples
 [Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
