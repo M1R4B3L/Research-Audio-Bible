@@ -117,7 +117,7 @@ Following the naming you should create your own organization.
 
 Examples:
 
-![Audio](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/audio.PNG)
+![audio](https://user-images.githubusercontent.com/45202028/75965110-9edd6100-5ec8-11ea-8afb-adc1ee0e9a65.PNG)
 
 ![Music](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/music.PNG)
 ![Fx](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/fx.PNG)
