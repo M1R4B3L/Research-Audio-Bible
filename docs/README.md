@@ -24,7 +24,7 @@ writing, game design, and the overall gaming experience.
 ![Team](https://user-images.githubusercontent.com/45202028/75965295-e19f3900-5ec8-11ea-954a-c28072449f54.jpg)
 
 ## How it affects the creation of audio?
-![Mayer](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/jonathanmayer.jpg)
+![jonathanmayer](https://user-images.githubusercontent.com/45202028/75965454-24f9a780-5ec9-11ea-9b29-ab42553b837c.jpg)
 As I said before it’s a team effort with an attention to detail that puts the audio experience over the top.  When you’re establishing your audio vision, make sure that you are taking the elements of Music, Sound-Design (Effects), Voice-Over, and Technology into account.  Each element has their subcomponents and everything needs to work together to make for the most cohesive experience.  If one element is neglected or “tacked-on”, it can throw your entire audio direction into disarray.
 
 This is a list of parameters/questions you need to take into account while selecting/designing your audio.
@@ -54,7 +54,7 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
-![Character](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/smallorbig.jpg)
+![smallorbig](https://user-images.githubusercontent.com/45202028/75965494-304cd300-5ec9-11ea-9c2c-71196b65240b.jpg)
 
 ### Voice Over
 
@@ -69,11 +69,11 @@ You need to take into account the platform you are creating the game for and the
 
 **.OGG** for Music and Dialogs 
 
-![Ogg](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/ogg.png)
+![ogg](https://user-images.githubusercontent.com/45202028/75965546-3e9aef00-5ec9-11ea-82d7-e96f2f8d9542.png)
 
 **.WAV** for Effects 
 
-![Wav](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/wav.png)
+![wav](https://user-images.githubusercontent.com/45202028/75965576-478bc080-5ec9-11ea-8d65-4b414d5d365a.png)
 
 In this part you should talk about how the sound is going to be implemented in your game, audio transitions and spatial music is a good option for your project. Your music is going to loop? How are you going to handle the superposition of the audio?
 A good way to handle your music is diving it in Layers at least 4 layers explaining in each one what are you going to reproduce there.
@@ -119,21 +119,21 @@ Examples:
 
 ![audio](https://user-images.githubusercontent.com/45202028/75965110-9edd6100-5ec8-11ea-8afb-adc1ee0e9a65.PNG)
 
-![Music](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/music.PNG)
-![Fx](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/fx.PNG)
+![music](https://user-images.githubusercontent.com/45202028/75965603-54101900-5ec9-11ea-9bd0-71490981cafd.PNG)
+![fx](https://user-images.githubusercontent.com/45202028/75965626-5c685400-5ec9-11ea-987e-9ede522287ff.PNG)
 
-![Category](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/category.PNG)
-![Type](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/type.PNG)
+![category](https://user-images.githubusercontent.com/45202028/75965672-6c803380-5ec9-11ea-9772-06d6d27f596b.PNG)
+![type](https://user-images.githubusercontent.com/45202028/75965646-638f6200-5ec9-11ea-8544-6c3090b5300f.PNG)
 
 Good: It has his own naming criteria and follows a folder organization.
 
-![Isaac Fx](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/isaac_fx.jpg)
+![isaac_fx](https://user-images.githubusercontent.com/45202028/75965698-76099b80-5ec9-11ea-8029-14ef5d5c0a3c.jpg)
 
-![Isaac Music](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/issac_music.jpg)
+![issac_music](https://user-images.githubusercontent.com/45202028/75965719-7d30a980-5ec9-11ea-828a-40b4025b9756.jpg)
 
 Bad:  It has his own naming criteria but does not follows a folder organization (Everything is in the same folder)
 
-![Terraria](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/terraria.jpg)
+![terraria](https://user-images.githubusercontent.com/45202028/75965740-83bf2100-5ec9-11ea-8ac3-23b456730e4b.jpg)
 
 ## Examples
 [Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
