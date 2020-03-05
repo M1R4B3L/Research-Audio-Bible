@@ -21,7 +21,7 @@ writing, game design, and the overall gaming experience.
 (Keith Ziza 2000).
 ```
 
-![Team](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/Team.jpg)
+![Team](https://user-images.githubusercontent.com/45202028/75965295-e19f3900-5ec8-11ea-954a-c28072449f54.jpg)
 
 ## How it affects the creation of audio?
 ![Mayer](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/jonathanmayer.jpg)
