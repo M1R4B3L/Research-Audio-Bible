@@ -63,7 +63,7 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 ### Technology:
 You need to take into account the platform you are creating the game for and the sound extension.
 
-**.OGG** for Music and Dialogs 
+**.OGG** for Music 
 
 ![ogg](https://user-images.githubusercontent.com/45202028/82586552-0a65cf00-9b98-11ea-9f52-47131cafb56c.png)
 
