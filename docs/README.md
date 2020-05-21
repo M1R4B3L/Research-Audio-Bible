@@ -120,16 +120,6 @@ Examples:
 ![music](https://user-images.githubusercontent.com/45202028/75965603-54101900-5ec9-11ea-9bd0-71490981cafd.PNG)
 ![fx](https://user-images.githubusercontent.com/45202028/75965626-5c685400-5ec9-11ea-987e-9ede522287ff.PNG)
 
-Good: It has his own naming criteria and follows a folder organization.
-
-![isaac_fx](https://user-images.githubusercontent.com/45202028/75965698-76099b80-5ec9-11ea-8029-14ef5d5c0a3c.jpg)
-
-![issac_music](https://user-images.githubusercontent.com/45202028/75965719-7d30a980-5ec9-11ea-828a-40b4025b9756.jpg)
-
-Bad:  It has his own naming criteria but does not follows a folder organization (Everything is in the same folder)
-
-![terraria](https://user-images.githubusercontent.com/45202028/75965740-83bf2100-5ec9-11ea-8ac3-23b456730e4b.jpg)
-
 ## Examples
 [Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
 
