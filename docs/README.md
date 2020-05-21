@@ -120,9 +120,6 @@ Examples:
 ![music](https://user-images.githubusercontent.com/45202028/75965603-54101900-5ec9-11ea-9bd0-71490981cafd.PNG)
 ![fx](https://user-images.githubusercontent.com/45202028/75965626-5c685400-5ec9-11ea-987e-9ede522287ff.PNG)
 
-![category](https://user-images.githubusercontent.com/45202028/75965672-6c803380-5ec9-11ea-9772-06d6d27f596b.PNG)
-![type](https://user-images.githubusercontent.com/45202028/75965646-638f6200-5ec9-11ea-8544-6c3090b5300f.PNG)
-
 Good: It has his own naming criteria and follows a folder organization.
 
 ![isaac_fx](https://user-images.githubusercontent.com/45202028/75965698-76099b80-5ec9-11ea-8029-14ef5d5c0a3c.jpg)
