@@ -124,7 +124,7 @@ Examples:
 [Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
 
 ## References
-[Guide by Zachary Quarles](https://www.asoundeffect.com/game-audio-design-document/)
+[Asoundeffect Game Audio](https://www.asoundeffect.com/game-audio-design-document/)
 
 [Guide by Zachary Quarles](http://zacharyquarles.com/blog/?p=518)
 
