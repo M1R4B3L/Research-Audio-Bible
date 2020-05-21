@@ -20,11 +20,7 @@ The end result, hopefully, is a harmonious one… working with and enhancing gra
 writing, game design, and the overall gaming experience. 
 (Keith Ziza 2000).
 ```
-
-![Team](https://user-images.githubusercontent.com/45202028/75965295-e19f3900-5ec8-11ea-954a-c28072449f54.jpg)
-
 ## How it affects the creation of audio?
-![jonathanmayer](https://user-images.githubusercontent.com/45202028/75965454-24f9a780-5ec9-11ea-9b29-ab42553b837c.jpg)
 As I said before it’s a team effort with an attention to detail that puts the audio experience over the top.  When you’re establishing your audio vision, make sure that you are taking the elements of Music, Sound-Design (Effects), Voice-Over, and Technology into account.  Each element has their subcomponents and everything needs to work together to make for the most cohesive experience.  If one element is neglected or “tacked-on”, it can throw your entire audio direction into disarray.
 
 This is a list of parameters/questions you need to take into account while selecting/designing your audio.
@@ -54,7 +50,7 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
-![smallorbig](https://user-images.githubusercontent.com/45202028/75965494-304cd300-5ec9-11ea-9c2c-71196b65240b.jpg)
+![smallorbig](https://user-images.githubusercontent.com/45202028/82586522-fa4def80-9b97-11ea-86df-1d19ae52fb3b.jpg)
 
 ### Voice Over
 
@@ -69,11 +65,11 @@ You need to take into account the platform you are creating the game for and the
 
 **.OGG** for Music and Dialogs 
 
-![ogg](https://user-images.githubusercontent.com/45202028/75965546-3e9aef00-5ec9-11ea-82d7-e96f2f8d9542.png)
+![ogg](https://user-images.githubusercontent.com/45202028/82586552-0a65cf00-9b98-11ea-9f52-47131cafb56c.png)
 
 **.WAV** for Effects 
 
-![wav](https://user-images.githubusercontent.com/45202028/75965576-478bc080-5ec9-11ea-8d65-4b414d5d365a.png)
+![wav](https://user-images.githubusercontent.com/45202028/82586586-1782be00-9b98-11ea-8b29-b352413142a1.png)
 
 In this part you should talk about how the sound is going to be implemented in your game, audio transitions and spatial music is a good option for your project. Your music is going to loop? How are you going to handle the superposition of the audio?
 A good way to handle your music is diving it in Layers at least 4 layers explaining in each one what are you going to reproduce there.
@@ -90,32 +86,10 @@ Some games can help you develop and surpass a situation they have already handle
 
 ### Web Pages to Download Fx and Music
 
-## Audio organization 
-The most essencial thing in audio is organization, in a game is possible to have more than 1000 sounds; each of them should be structured and accepted by the director, and all the differents leaders. 
+### Naming and Folder Organization
 
-### Naming
-In terms of naming, this is again something that can be done in many ways, but I’d say that one of the most important things is that, once you’ve decided on a certain terminology, remain coherent with it. And be careful to name the events in your audio engine exactly the way you named them in your design document. Otherwise you will very rapidly get confused between all those similarly named versions of a same event, and won’t know which one is the correct one to use.
-
-```
-Example: 
-I want no capital letters and the space between words with and underscore
-
-**player_move_water_number (a number may not always be required)**
-
-- First the category. (for example the object type/space)  "player" 
-
-- Second the subcategory. (for example the action type/more specific space) "move"
-
-- Third Description. (add more details about what this event refers to) "water"
-
-- Last number. (there are more than 1 sound) "?"
-```
-The naming document have to be shared among all the members of the project.
-
-
-### Folder organization
-Whether you are working as a one person department on your own machine or you are sharing a repository for all the audio assets, a clear way of organising these will be crucial.
-Following the naming you should create your own organization.
+![issac_music](https://user-images.githubusercontent.com/45202028/82586621-25d0da00-9b98-11ea-90ac-d3bebb10b8b6.jpg)
+![terraria](https://user-images.githubusercontent.com/45202028/82586636-2cf7e800-9b98-11ea-8e0d-c69ea84c2e43.jpg)
 
 Examples:
 
@@ -124,24 +98,11 @@ Examples:
 ![music](https://user-images.githubusercontent.com/45202028/75965603-54101900-5ec9-11ea-9bd0-71490981cafd.PNG)
 ![fx](https://user-images.githubusercontent.com/45202028/75965626-5c685400-5ec9-11ea-987e-9ede522287ff.PNG)
 
-![category](https://user-images.githubusercontent.com/45202028/75965672-6c803380-5ec9-11ea-9772-06d6d27f596b.PNG)
-![type](https://user-images.githubusercontent.com/45202028/75965646-638f6200-5ec9-11ea-8544-6c3090b5300f.PNG)
-
-Good: It has his own naming criteria and follows a folder organization.
-
-![isaac_fx](https://user-images.githubusercontent.com/45202028/75965698-76099b80-5ec9-11ea-8029-14ef5d5c0a3c.jpg)
-
-![issac_music](https://user-images.githubusercontent.com/45202028/75965719-7d30a980-5ec9-11ea-828a-40b4025b9756.jpg)
-
-Bad:  It has his own naming criteria but does not follows a folder organization (Everything is in the same folder)
-
-![terraria](https://user-images.githubusercontent.com/45202028/75965740-83bf2100-5ec9-11ea-8ac3-23b456730e4b.jpg)
-
 ## Examples
 [Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
 
 ## References
-[Guide by Zachary Quarles](https://www.asoundeffect.com/game-audio-design-document/)
+[Asoundeffect Game Audio](https://www.asoundeffect.com/game-audio-design-document/)
 
 [Guide by Zachary Quarles](http://zacharyquarles.com/blog/?p=518)
 
