@@ -50,7 +50,7 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
-![smallorbig](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/smallorbig.jpg)
+![](https://github.com/M1R4B3L/Research-Audio-Bible/blob/master/docs/Images/smallorbig.jpg)
 
 ### Voice Over
 
