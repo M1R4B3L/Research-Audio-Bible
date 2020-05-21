@@ -50,7 +50,7 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
-![smallorbig](https://user-images.githubusercontent.com/45202028/75965494-304cd300-5ec9-11ea-9c2c-71196b65240b.jpg)
+![smallorbig](docs/Images/smallorbig.jpg)
 
 ### Voice Over
 
@@ -65,11 +65,11 @@ You need to take into account the platform you are creating the game for and the
 
 **.OGG** for Music and Dialogs 
 
-![ogg](https://user-images.githubusercontent.com/45202028/75965546-3e9aef00-5ec9-11ea-82d7-e96f2f8d9542.png)
+![ogg](docs/Images/ogg.png)
 
 **.WAV** for Effects 
 
-![wav](https://user-images.githubusercontent.com/45202028/75965576-478bc080-5ec9-11ea-8d65-4b414d5d365a.png)
+![wav](docs/Images/wav.png)
 
 In this part you should talk about how the sound is going to be implemented in your game, audio transitions and spatial music is a good option for your project. Your music is going to loop? How are you going to handle the superposition of the audio?
 A good way to handle your music is diving it in Layers at least 4 layers explaining in each one what are you going to reproduce there.
