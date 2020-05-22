@@ -38,14 +38,17 @@ A brief description about a set of features that will be taken into account duri
 
 **_How do you want to make the audience feel?:_** Description about the theme, Dark for suspense? What feeling you want to create to the audience
 
- - Feel powerfull like a viking [Dragonborn-Skyrim](https://www.youtube.com/watch?v=6fILxnBH1Tg)
+ - Feel powerfull like a viking [Dragonborn-Skyrim](https://www.youtube.com/watch?v=6fILxnBH1Tg) 
+ 
+ ![skyrim](https://user-images.githubusercontent.com/45202028/82690523-ace78600-9c5c-11ea-92e5-928c32964d7b.jpg)
 
 **_Situation:_** Is it a big bombastic orchestral for the main action or is it a minimalist score that creates more of an ambience?
 
  - Main Theme: [Mario Odyssey](https://www.youtube.com/watch?v=J4e4hnGEgpw)
  
  - Main Action: [Mario vs Bowser Super Mario Odyssey](https://www.youtube.com/watch?v=9_yTRGElgx4)
-
+ 
+ ![mvb](https://user-images.githubusercontent.com/45202028/82690557-b83ab180-9c5c-11ea-8de1-ac2832329ef5.png)
 
 **_Instrumentation:_** What instruments will be performing the themes that the designers have chosen. There’s a big difference between each instrument and the way it sounds; it definitely can change player’s feelings during the game.
 
@@ -53,16 +56,22 @@ A brief description about a set of features that will be taken into account duri
 
 **_Ambience:_** How complex and layered is the world sound that is around the user?Are you on a sci-fi alien planet with moaning winds and twisting thunder crackling around in the skies above? Material?
 
-  - [Wind sound effect](https://www.youtube.com/watch?v=ZD47Mhzm-CU)
+  - [Zelda Ocean waves at night](https://www.youtube.com/watch?v=zGp8wxfWRkg)
+  
+  ![Ocean](https://user-images.githubusercontent.com/45202028/82690570-bffa5600-9c5c-11ea-8d6d-44e85733967e.PNG)
 
 **_Player:_** Basic player action effect like running, jumping...
 
   - [Mario Jump effect](https://www.youtube.com/watch?v=ZrP-30MmpvM)
+  
+  ![mjump](https://user-images.githubusercontent.com/45202028/82690606-d30d2600-9c5c-11ea-969e-90fcd1597124.gif)
 
 **_Entities:_** All the sound effects produced by the differents entities around the player. Will the player come across?
 Are they small little bunnies? A Gigantic Boss? or a Plant?  
 
  - [Mario Coin](https://www.youtube.com/watch?v=qfx6yf8pux4)
+ 
+ ![Coin](https://user-images.githubusercontent.com/45202028/82690616-d7394380-9c5c-11ea-924b-f66d7658ce40.gif)
 
  - [Factorio machines](https://www.youtube.com/watch?v=pttCl-7KoGI)
 
@@ -75,12 +84,17 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 **_Style:_** This could range from age type, gender type, etc…Each voice has its own collection of frequencies and timbre qualities, so it’s good to know what sort of pool you’ll have.
 
   - Femine voice [Lara Croft](https://www.youtube.com/watch?v=zh80dvrDf7g) 
+  
+  ![lara](https://user-images.githubusercontent.com/45202028/82690645-e0c2ab80-9c5c-11ea-9b6b-fd623c664f94.jpg)
+
 
 **_Visualizations:_** Tutorial dialog? Indications for the user?
 
 **_Player/Creatures/Enemies:_** The player is going to have a voice, the enemies? The creatures are voice modifications?
 
   - Animalese [Animal Crossing voices](https://www.youtube.com/watch?v=YekLRkiIW4Y)
+  
+  ![talk](https://user-images.githubusercontent.com/45202028/82690766-1b2c4880-9c5d-11ea-9aa8-1a3b67359888.gif)
 
 ## Technology:
 
