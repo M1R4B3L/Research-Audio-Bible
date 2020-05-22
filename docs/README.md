@@ -3,7 +3,8 @@
 I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/) Balchelor's Degree in Video Games by UPC at CITM. This content is genereated for the second year's subject Project 2, under supervision of lecturer [Ramon Santamaria](https://www.linkedin.com/in/raysan/).
 
 All the audio examples used in this Research Project have copyright depending on the company they created them.
-Nintendo, 
+Nintendo, Wube Software, Bethesda Game Studios and	Crystal Dynamics.
+
 # 1. Who is responsible for the creation of the Audio Bible?
 
 The Audio Bible is a document created by the Audio Director and the Sound Designer; always maintaining a close collaboration with the director of the project, the art team, the design team and the programmers.
@@ -52,7 +53,7 @@ A brief description about a set of features that will be taken into account duri
 
 **_Ambience:_** How complex and layered is the world sound that is around the user?Are you on a sci-fi alien planet with moaning winds and twisting thunder crackling around in the skies above? Material?
 
-  - [Zelda backround sound effects](http://noproblo.dayjo.org/ZeldaSounds/)
+  - [Wind sound effect](https://www.youtube.com/watch?v=ZD47Mhzm-CU)
 
 **_Player:_** Basic player action effect like running, jumping...
 
@@ -61,7 +62,7 @@ A brief description about a set of features that will be taken into account duri
 **_Entities:_** All the sound effects produced by the differents entities around the player. Will the player come across?
 Are they small little bunnies? A Gigantic Boss? or a Plant?  
 
- - [Zelda Ganon getting hit](http://noproblo.dayjo.org/ZeldaSounds/)
+ - [Mario Coin](https://www.youtube.com/watch?v=qfx6yf8pux4)
 
  - [Factorio machines](https://www.youtube.com/watch?v=pttCl-7KoGI)
 
