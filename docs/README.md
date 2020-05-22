@@ -72,11 +72,11 @@ Audio formats:
 
 .OGG for Music.  
 
-![ogg](https://user-images.githubusercontent.com/45202028/82651178-18f5ca00-9c1c-11ea-8cbd-3eb11942cf7c.png)
+![ogg](https://user-images.githubusercontent.com/45202028/82651818-f617e580-9c1c-11ea-991e-2719bbe29b43.png)
 
 .WAV for Effects. 
 
-![wav](https://user-images.githubusercontent.com/45202028/82651330-4b072c00-9c1c-11ea-80d9-80756b98ff71.png)
+![wav](https://user-images.githubusercontent.com/45202028/82651844-fe702080-9c1c-11ea-84c5-434988a10a10.png)
 
 We have Spatial Audio to control entities distance.
 
