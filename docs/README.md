@@ -107,13 +107,13 @@ Most recommended naming convention are:
 
 ### Real Games Example
 
-**The Binding of Isaac**
+**- The Binding of Isaac**
 
 The folder organization is a bit messy, they follow a naming convention but whitespaces are not recommended. 
 
 ![issac_music](https://user-images.githubusercontent.com/45202028/82586621-25d0da00-9b98-11ea-90ac-d3bebb10b8b6.jpg)
 
-**Terraria**
+**- Terraria**
 
 It follows a naming convention in this case a combination between Pascal and Snake case. They don't have a folder organization.
 
