@@ -68,8 +68,9 @@ Technology is an important aspect; you need to consider whitch libraries, audio 
 In our case we are using SDL_Mixer.
 Audio formats:
 
-.OGG for Music.  ![ogg](https://user-images.githubusercontent.com/45202028/82651035-e51aa480-9c1b-11ea-92af-839207b1ac21.png)
-.WAV for Effects. ![wav](https://user-images.githubusercontent.com/45202028/82651038-e5b33b00-9c1b-11ea-89bd-196406c0cfd9.png)
+.OGG for Music.  ![ogg](https://user-images.githubusercontent.com/45202028/82651178-18f5ca00-9c1c-11ea-8cbd-3eb11942cf7c.png)
+
+.WAV for Effects. ![wav](https://user-images.githubusercontent.com/45202028/82651330-4b072c00-9c1c-11ea-80d9-80756b98ff71.png)
 
 We have Spatial Audio to control entities distance.
 
