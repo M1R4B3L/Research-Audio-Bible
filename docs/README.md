@@ -65,12 +65,18 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 Technology is an important aspect; you need to consider whitch libraries, audio formats and audio management for the game you will be working in.
 
 **Example**
+
 In our case we are using SDL_Mixer.
+
 Audio formats:
 
-.OGG for Music.  ![ogg](https://user-images.githubusercontent.com/45202028/82651178-18f5ca00-9c1c-11ea-8cbd-3eb11942cf7c.png)
+.OGG for Music.  
 
-.WAV for Effects. ![wav](https://user-images.githubusercontent.com/45202028/82651330-4b072c00-9c1c-11ea-80d9-80756b98ff71.png)
+![ogg](https://user-images.githubusercontent.com/45202028/82651178-18f5ca00-9c1c-11ea-8cbd-3eb11942cf7c.png)
+
+.WAV for Effects. 
+
+![wav](https://user-images.githubusercontent.com/45202028/82651330-4b072c00-9c1c-11ea-80d9-80756b98ff71.png)
 
 We have Spatial Audio to control entities distance.
 
