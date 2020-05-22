@@ -16,7 +16,7 @@ I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CI
 
 [Interesting Conferences]
 
-[References]
+[References](https://m1r4b3l.github.io/Research-Audio-Bible/# References)
 
 
 # Who is responsible for the creation of the Audio Bible?
