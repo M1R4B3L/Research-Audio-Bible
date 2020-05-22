@@ -4,9 +4,9 @@ I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CI
 
 ## Index
 
-[Who is responsible for the creation of the Audio Bible?](https://m1r4b3l.github.io/Research-Audio-Bible/## Who is responsible for the creation of the Audio Bible?)
+[Who is responsible for the creation of the Audio Bible?](https://m1r4b3l.github.io/Research-Audio-Bible/# Who is responsible for the creation of the Audio Bible?)
 
-[How it affects the creation of audio?](https://m1r4b3l.github.io/Research-Audio-Bible/## How it affects the creation of audio?)
+[How it affects the creation of audio?](https://m1r4b3l.github.io/Research-Audio-Bible/# How it affects the creation of audio?)
 
 [How to obtain game audio]
 
@@ -19,7 +19,7 @@ I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CI
 [References]
 
 
-## Who is responsible for the creation of the Audio Bible?
+# Who is responsible for the creation of the Audio Bible?
 
 The Audio Bible is a document created by the Audio Director and the Sound Designer; always maintaining a close collaboration with the director of the project, the art team and the design team.
 That collaboration is crucial, being the main problem in indie companies.
@@ -37,16 +37,16 @@ The end result, hopefully, is a harmonious one… working with and enhancing gra
 writing, game design, and the overall gaming experience. 
 (Keith Ziza 2000).
 ```
-## How it affects the creation of audio?
+# How it affects the creation of audio?
 As I said before it’s a team effort with an attention to detail that puts the audio experience over the top.  When you’re establishing your audio vision, make sure that you are taking the elements of Music, Sound-Design (Effects), Voice-Over, and Technology into account.  Each element has their subcomponents and everything needs to work together to make for the most cohesive experience.  If one element is neglected or “tacked-on”, it can throw your entire audio direction into disarray.
 
 This is a list of parameters/questions you need to take into account while selecting/designing your audio.
 
-### Audio Pillars
+## Audio Pillars
 
 A brief description about a set of features that will be taken into account during the audiocreation, that define the game’s audio aesthetics. Extremely similar to the ones define in design and art.
 
-### Music
+## Music
 
 **_Genre:_** Description about the theme, Dark for suspense? Medieval?
 
@@ -58,7 +58,7 @@ A brief description about a set of features that will be taken into account duri
 
 **_Implementation:_** Is going to be a single music in a layer and the effects in other one, or is going to be more than one layer for different musics? Is going to change during player actions or game situations?
 
-### Effects
+## Effects
 
 **_Ambience:_** How complex and layered is the world sound that is around the user?Are you on a sci-fi alien planet with moaning winds and twisting thunder crackling around in the skies above? Material?
 
@@ -70,7 +70,7 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
 
-### Voice Over
+## Voice Over
 
 **_Style:_** This could range from age type, gender type, etc…Each voice has its own collection of frequencies and timbre qualities, so it’s good to know what sort of pool you’ll have.
 
@@ -78,7 +78,7 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 
 **_Player/Creatures/Enemies:_** The player is going to have a voice, the enemies? The creatures are voice modifications?
 
-### Technology:
+## Technology:
 
 Technology is an important aspect; you need to consider whitch libraries, audio formats and audio management for the game you will be working in.
 
@@ -95,15 +95,15 @@ Audio formats:
 We have Spatial Audio to control entities distance.
 
 
-## How to obtain game audio
+# How to obtain game audio
 
 Game audio can be obtained through differents ways.
 
-### Your own Creation
+## Your own Creation
 
 Only recommended if you have some time to spent or a big team with a professional dedicated on it.
 
-### Tools
+## Tools
 
 **- Online Music maker:**
 
@@ -122,11 +122,11 @@ For raylib libraries [rFXGen](https://raylibtech.itch.io/rfxgen)
 Animal Crossing voices generator [Animalese Generator](https://acedio.github.io/animalese.js/)
 
 
-### Contract a Profesional
+## Contract a Profesional
 
 If you are not an expert and your time is limited contract a professional audio designer.
 
-### Download from a Audio Library
+## Download from a Audio Library
 
 The last option and the most used for starting/students in game developing. 
 Remember the music should be royalty free.
@@ -140,7 +140,7 @@ Remember the music should be royalty free.
 [PlayOnLoop](https://www.playonloop.com/royalty-free-music/)
 
 
-## Naming and Folder Organization
+# Naming and Folder Organization
 
 Organizating your audio is crucial for your group, the programmer have to know which audio should be used, at what time and how is it going to be applied in the game. 
 A good naming and folder structe will make the aspects mentioned before easier to complete.
@@ -164,7 +164,7 @@ Most recommended naming convention are:
 
 **- Pascal case: *MusicAudio***
 
-### Real Games Example
+## Real Games Example
 
 **- The Binding of Isaac**
 
@@ -179,15 +179,15 @@ It follows a naming convention in this case a combination between Pascal and Sna
 ![terraria](https://user-images.githubusercontent.com/45202028/82586636-2cf7e800-9b98-11ea-8e0d-c69ea84c2e43.jpg)
 
 
-## Audio Bible Example
+# Audio Bible Example
 [Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
 
-## Interesting conferences
+# Interesting conferences
 [Jonathan Wayer](https://www.youtube.com/watch?v=7p9rqo2I_Hs)
 
 [Bjørn Jacobsen](https://www.youtube.com/watch?v=HLOmk6ly_CE&t=829s)
 
-## References
+# References
 [Asoundeffect Game Audio](https://www.asoundeffect.com/game-audio-design-document/)
 
 [Guide by Zachary Quarles](http://zacharyquarles.com/blog/?p=518)
