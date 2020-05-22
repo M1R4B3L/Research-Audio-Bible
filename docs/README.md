@@ -88,23 +88,21 @@ Only recommended if you have some time to spent or a big team with a professiona
 
 ### Tools
 
-**Online**
+**- Online Music maker:**
 
-- Online Music maker:
+You have a free trial [Soundation](https://soundation.com/)
 
-You have a free trial [Soundation] (https://soundation.com/)
+Premium [Soundtrap](https://www.soundtrap.com/musicmakers?lang=es)
 
-Premium [Soundtrap] (https://www.soundtrap.com/musicmakers?lang=es)
+**- Online Fx maker for .wav:**
 
-- Online Fx maker for .wav:
+[Leshy SFMaker](https://www.leshylabs.com/apps/sfMaker/)
 
-[Leshy SFMaker] (https://www.leshylabs.com/apps/sfMaker/)
+**- Extras:**
 
-- Extras:
+For raylib libraries [rFXGen](https://raylibtech.itch.io/rfxgen)
 
-For raylib libraries [rFXGen] (https://raylibtech.itch.io/rfxgen)
-
-Animal Crossing voices generator [Animalese Generator] (https://acedio.github.io/animalese.js/)
+Animal Crossing voices generator [Animalese Generator](https://acedio.github.io/animalese.js/)
 
 
 ### Contract a Profesional
@@ -116,13 +114,13 @@ If you are not an expert and your time is limited contract a professional audio 
 The last option and the most used for starting/students in game developing. 
 Remember the music should be royalty free.
 
-[Itch.io] (https://itch.io/soundtracks)
+[Itch.io](https://itch.io/soundtracks)
 
-[Freesound] (https://freesound.org/)
+[Freesound](https://freesound.org/)
 
-[NoiseForFun] (https://www.noiseforfun.com/)
+[NoiseForFun](https://www.noiseforfun.com/)
 
-[PlayOnLoop] (https://www.playonloop.com/royalty-free-music/)
+[PlayOnLoop](https://www.playonloop.com/royalty-free-music/)
 
 
 ## Naming and Folder Organization
