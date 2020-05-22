@@ -51,7 +51,6 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
 
-
 ### Voice Over
 
 **_Style:_** This could range from age type, gender type, etc…Each voice has its own collection of frequencies and timbre qualities, so it’s good to know what sort of pool you’ll have.
@@ -76,29 +75,39 @@ Audio formats:
 
 We have Spatial Audio to control entities distance.
 
-### Reference Material
-
-Some games can help you develop and surpass a situation they have already handled. 
 
 ## Audio Creation
 
-
 ### Tools
-
 
 ### Web Pages to Download Fx and Music
 
 ## Naming and Folder Organization
 
-## Examples:
+Organizating your audio is crucial for your group, the programmer have to know which audio should be used, at what time and how is it going to be applied in the game. 
+A good naming and folder structe will make the aspects mentioned before easier to complete.
+
+**Examples:**
+This template will help organize the general audio.
+If you want to be more specific you can create more folders.
 
 ![audio](https://user-images.githubusercontent.com/45202028/75965110-9edd6100-5ec8-11ea-8afb-adc1ee0e9a65.PNG)
 
 ![music](https://user-images.githubusercontent.com/45202028/75965603-54101900-5ec9-11ea-9bd0-71490981cafd.PNG)
 ![fx](https://user-images.githubusercontent.com/45202028/75965626-5c685400-5ec9-11ea-987e-9ede522287ff.PNG)
 
+Audio naming should follow a convention and put in common to all the team.
+
+Most recommended naming convention are:
+
+- Snake case: music_audio
+- Camel case: musicAudio
+- Pascal case: MusicAudio
+
+
 ### Real Games Example
 
+T
 ![issac_music](https://user-images.githubusercontent.com/45202028/82586621-25d0da00-9b98-11ea-90ac-d3bebb10b8b6.jpg)
 ![terraria](https://user-images.githubusercontent.com/45202028/82586636-2cf7e800-9b98-11ea-8e0d-c69ea84c2e43.jpg)
 
