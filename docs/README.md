@@ -46,7 +46,7 @@ A brief description about a set of features that will be taken into account duri
 
  - Main Theme: [Mario Odyssey](https://www.youtube.com/watch?v=J4e4hnGEgpw)
  
- - Main Action: [Mario vs Bowser Super Mario Odyssey](https://www.youtube.com/watch?v=9_yTRGElgx4)
+ - Main Action: [Mario vs Bowser Mario Odyssey](https://www.youtube.com/watch?v=9_yTRGElgx4)
  
  ![mvb](https://user-images.githubusercontent.com/45202028/82690557-b83ab180-9c5c-11ea-8de1-ac2832329ef5.png)
 
