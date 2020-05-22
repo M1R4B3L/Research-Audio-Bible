@@ -2,6 +2,8 @@
 
 I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/) Balchelor's Degree in Video Games by UPC at CITM. This content is genereated for the second year's subject Project 2, under supervision of lecturer [Ramon Santamaria](https://www.linkedin.com/in/raysan/).
 
+All the audio examples used in this Research Project have copyright depending on the company they created them.
+Nintendo, 
 # 1. Who is responsible for the creation of the Audio Bible?
 
 The Audio Bible is a document created by the Audio Director and the Sound Designer; always maintaining a close collaboration with the director of the project, the art team, the design team and the programmers.
@@ -33,35 +35,46 @@ A brief description about a set of features that will be taken into account duri
 
 ## Music
 
-**_Genre:_** Description about the theme, Dark for suspense? Medieval?
+**_How do you want to make the audience feel?:_** Description about the theme, Dark for suspense? What feeling you want to create to the audience
 
+ - Feel powerfull like a viking [Dragonborn-Skyrim](https://www.youtube.com/watch?v=6fILxnBH1Tg)
 
+**_Situation:_** Is it a big bombastic orchestral for the main action or is it a minimalist score that creates more of an ambience?
 
-**_Style:_** Is it a big, bombastic orchestral score or is it a minimalist score that creates more of an ambience?
+  - Main Action: [Mario vs Bowser Super Mario Odyssey](https://www.youtube.com/watch?v=9_yTRGElgx4)
 
-**_Instrumentation:_** What instruments will be performing the themes that the designers have chosen. There’s a big difference between each instrument and the way it sounds; it definitely can change player’s feels during the game.
-
-**_Implementation:_** Is going to be a single music in a layer and the effects in other one, or is going to be more than one layer for different musics? Is going to change during player actions or game situations?
+**_Instrumentation:_** What instruments will be performing the themes that the designers have chosen. There’s a big difference between each instrument and the way it sounds; it definitely can change player’s feelings during the game.
 
 ## Effects
 
 **_Ambience:_** How complex and layered is the world sound that is around the user?Are you on a sci-fi alien planet with moaning winds and twisting thunder crackling around in the skies above? Material?
 
+  - [Zelda backround sound effects](https://www.youtube.com/watch?v=YFSP_DVifUA)
+
 **_Player:_** Basic player action effect like running, jumping...
 
+  - [Mario Jump effect](https://www.youtube.com/watch?v=ZrP-30MmpvM)
+
 **_Creatures/Enemies/Obstacles:_** What sort of “encounters” will the player come across?
-Are they small little bunnies? A Gigantic Boss? or a Plant?                                 
+Are they small little bunnies? A Gigantic Boss? or a Plant?   
+
+  - [Factorio machines](https://www.youtube.com/watch?v=pttCl-7KoGI)
 
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
+  - [Nintendo WII soud UI sound effects](https://www.youtube.com/watch?v=rMDW4jYuYAU)
 
 ## Voice Over
 
 **_Style:_** This could range from age type, gender type, etc…Each voice has its own collection of frequencies and timbre qualities, so it’s good to know what sort of pool you’ll have.
 
+  - Femine voice [Lara Croft](https://www.youtube.com/watch?v=zh80dvrDf7g) 
+
 **_Visualizations:_** Tutorial dialog? Indications for the user?
 
 **_Player/Creatures/Enemies:_** The player is going to have a voice, the enemies? The creatures are voice modifications?
+
+  - Animalese [Animal Crossing voices](https://www.youtube.com/watch?v=YekLRkiIW4Y)
 
 ## Technology:
 
