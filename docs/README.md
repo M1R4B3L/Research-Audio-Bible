@@ -33,6 +33,8 @@ A brief description about a set of features that will be taken into account duri
 
 **_Genre:_** Description about the theme, Dark for suspense? Medieval?
 
+
+
 **_Style:_** Is it a big, bombastic orchestral score or is it a minimalist score that creates more of an ambience?
 
 **_Instrumentation:_** What instruments will be performing the themes that the designers have chosen. There’s a big difference between each instrument and the way it sounds; it definitely can change player’s feels during the game.
@@ -99,11 +101,9 @@ If you want to be more specific you can create more folders.
 Audio naming should follow a convention and put in common to all the team.
 
 Most recommended naming convention are:
-
-- Snake case: music_audio
-- Camel case: musicAudio
-- Pascal case: MusicAudio
-
+- Snake case: *music_audio
+- Camel case: *musicAudio
+- Pascal case: *MusicAudio
 
 ### Real Games Example
 
