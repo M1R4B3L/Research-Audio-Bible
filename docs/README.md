@@ -4,9 +4,9 @@ I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CI
 
 # Index
 
-[Who is responsible for the creation of the Audio Bible?](https://m1r4b3l.github.io/Research-Audio-Bible/#1-Who-is-responsible-for-the-creation-of-the-Audio-Bible?)
+[Who is responsible for the creation of the Audio Bible?](https://m1r4b3l.github.io/Research-Audio-Bible/#1-who-is-responsible-for-the-creation-of-the-audio-bible?)
 
-[How it affects the creation of audio?](https://m1r4b3l.github.io/Research-Audio-Bible/#2-How-it-affects-the-creation-of-audio?)
+[How it affects the creation of audio?](https://m1r4b3l.github.io/Research-Audio-Bible/#2-how-it-affects-the-creation-of-audio?)
 
 [How to obtain game audio](https://m1r4b3l.github.io/Research-Audio-Bible/# 3. How to obtain game audio)
 
