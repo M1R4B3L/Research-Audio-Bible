@@ -21,7 +21,7 @@ https://m1r4b3l.github.io/Research-Audio-Bible/#Who is responsible for the creat
 
 # 1. Who is responsible for the creation of the Audio Bible?
 
-The Audio Bible is a document created by the Audio Director and the Sound Designer; always maintaining a close collaboration with the director of the project, the art team and the design team.
+The Audio Bible is a document created by the Audio Director and the Sound Designer; always maintaining a close collaboration with the director of the project, the art team, the design team and the programmers.
 That collaboration is crucial, being the main problem in indie companies.
 This document is designed to help the audio team, as well as the programmers who will need the document to implement the sound into the game. 
 [Keith Ziza](http://keithzizza.com/) in one of his interviews said:
@@ -37,8 +37,10 @@ The end result, hopefully, is a harmonious one… working with and enhancing gra
 writing, game design, and the overall gaming experience. 
 (Keith Ziza 2000).
 ```
+So folloing [Keith Ziza](http://keithzizza.com/) description the Audio Bible should be created by the sound designer but sharem amoung all the group.
+
 # 2. How it affects the creation of audio?
-As I said before it’s a team effort with an attention to detail that puts the audio experience over the top.  When you’re establishing your audio vision, make sure that you are taking the elements of Music, Sound-Design (Effects), Voice-Over, and Technology into account.  Each element has their subcomponents and everything needs to work together to make for the most cohesive experience.  If one element is neglected or “tacked-on”, it can throw your entire audio direction into disarray.
+As I said before it’s a team effort with an attention to detail that puts the audio experience over the top. When you’re establishing your audio vision, make sure that you are taking the elements of Music, Sound-Design (Effects), Voice-Over, and Technology into account.  Each element has their subcomponents and everything needs to work together to make for the most cohesive experience.  If one element is neglected or “tacked-on”, it can throw your entire audio direction into disarray.
 
 This is a list of parameters/questions you need to take into account while selecting/designing your audio.
 
@@ -113,11 +115,11 @@ Premium [Soundtrap](https://www.soundtrap.com/musicmakers?lang=es)
 
 **- Online Fx maker for .wav:**
 
+[rFXGen](https://raylibtech.itch.io/rfxgen)
+
 [Leshy SFMaker](https://www.leshylabs.com/apps/sfMaker/)
 
-**- Extras:**
-
-For raylib libraries [rFXGen](https://raylibtech.itch.io/rfxgen)
+**Extras**
 
 Animal Crossing voices generator [Animalese Generator](https://acedio.github.io/animalese.js/)
 
