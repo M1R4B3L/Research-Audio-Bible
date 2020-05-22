@@ -41,7 +41,10 @@ A brief description about a set of features that will be taken into account duri
 
 **_Situation:_** Is it a big bombastic orchestral for the main action or is it a minimalist score that creates more of an ambience?
 
-  - Main Action: [Mario vs Bowser Super Mario Odyssey](https://www.youtube.com/watch?v=9_yTRGElgx4)
+ - Main Theme: [Mario Odyssey](https://www.youtube.com/watch?v=J4e4hnGEgpw)
+ 
+ - Main Action: [Mario vs Bowser Super Mario Odyssey](https://www.youtube.com/watch?v=9_yTRGElgx4)
+
 
 **_Instrumentation:_** What instruments will be performing the themes that the designers have chosen. There’s a big difference between each instrument and the way it sounds; it definitely can change player’s feelings during the game.
 
