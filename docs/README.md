@@ -2,23 +2,6 @@
 
 I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/) Balchelor's Degree in Video Games by UPC at CITM. This content is genereated for the second year's subject Project 2, under supervision of lecturer [Ramon Santamaria](https://www.linkedin.com/in/raysan/).
 
-# Index
-
-[Who is responsible for the creation of the Audio Bible?](https://m1r4b3l.github.io/Research-Audio-Bible/#1-who-is-responsible-for-the-creation-of-the-audio-bible?)
-
-[How it affects the creation of audio?](https://m1r4b3l.github.io/Research-Audio-Bible/#2-how-it-affects-the-creation-of-audio?)
-
-[How to obtain game audio](https://m1r4b3l.github.io/Research-Audio-Bible/# 3. How to obtain game audio)
-
-[Naming and Folder organization](https://m1r4b3l.github.io/Research-Audio-Bible/
-
-[Audio Bible example](https://m1r4b3l.github.io/Research-Audio-Bible/
-
-[Interesting Conferences](https://m1r4b3l.github.io/Research-Audio-Bible/
-
-7. [References](https://m1r4b3l.github.io/Research-Audio-Bible/#7 References)
-
-
 # 1. Who is responsible for the creation of the Audio Bible?
 
 The Audio Bible is a document created by the Audio Director and the Sound Designer; always maintaining a close collaboration with the director of the project, the art team, the design team and the programmers.
