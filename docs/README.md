@@ -78,11 +78,52 @@ Audio formats:
 We have Spatial Audio to control entities distance.
 
 
-## Audio Creation
+## How I obtain my game audio
+
+Game audio can be obtained through differents ways.
+
+### Your own Creation
+
+Only recommended if you have some time to spent or a big team with a professional dedicated on it.
 
 ### Tools
 
-### Web Pages to Download Fx and Music
+**Online**
+
+- Online Music maker:
+
+You have a free trial [Soundation] (https://soundation.com/)
+
+Premium [Soundtrap] (https://www.soundtrap.com/musicmakers?lang=es)
+
+- Online Fx maker for .wav:
+
+[Leshy SFMaker] (https://www.leshylabs.com/apps/sfMaker/)
+
+- Extras:
+
+For raylib libraries [rFXGen] (https://raylibtech.itch.io/rfxgen)
+
+Animal Crossing voices generator [Animalese Generator] (https://acedio.github.io/animalese.js/)
+
+
+### Contract a Profesional
+
+If you are not an expert and your time is limited contract a professional audio designer.
+
+### Download from a Audio Library
+
+The last option and the most used for starting/students in game developing. 
+Remember the music should be royalty free.
+
+[Itch.io] (https://itch.io/soundtracks)
+
+[Freesound] (https://freesound.org/)
+
+[NoiseForFun] (https://www.noiseforfun.com/)
+
+[PlayOnLoop] (https://www.playonloop.com/royalty-free-music/)
+
 
 ## Naming and Folder Organization
 
