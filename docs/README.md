@@ -70,13 +70,9 @@ In our case we are using SDL_Mixer.
 
 Audio formats:
 
-.OGG for Music.  
+.OGG for Music.  ![ogg](https://user-images.githubusercontent.com/45202028/82651818-f617e580-9c1c-11ea-991e-2719bbe29b43.png)
 
-![ogg](https://user-images.githubusercontent.com/45202028/82651818-f617e580-9c1c-11ea-991e-2719bbe29b43.png)
-
-.WAV for Effects. 
-
-![wav](https://user-images.githubusercontent.com/45202028/82651844-fe702080-9c1c-11ea-84c5-434988a10a10.png)
+.WAV for Effects.  ![wav](https://user-images.githubusercontent.com/45202028/82651844-fe702080-9c1c-11ea-84c5-434988a10a10.png)
 
 We have Spatial Audio to control entities distance.
 
