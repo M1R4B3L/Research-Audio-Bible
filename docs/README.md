@@ -102,11 +102,11 @@ Audio naming should follow a convention and put in common to all the team.
 
 Most recommended naming convention are:
 
-**- Snake case: *music_audio* **
+**- Snake case: *music_audio***
 
-**- Camel case: *musicAudio* **
+**- Camel case: *musicAudio***
 
-**- Pascal case: *MusicAudio* **
+**- Pascal case: *MusicAudio***
 
 ### Real Games Example
 
