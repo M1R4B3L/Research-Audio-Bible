@@ -4,7 +4,7 @@ I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CI
 
 ## Index
 
-[Who is responsible for the creation of the Audio Bible?]
+[Who is responsible for the creation of the Audio Bible?](https://github.com/M1R4B3L/Research-Audio-Bible/tree/master/docs#who-is-responsible-for-the-creation-of-the-audio-bible)
 
 [How it affects the creation of audio?]
 
