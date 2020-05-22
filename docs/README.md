@@ -16,7 +16,7 @@ https://m1r4b3l.github.io/Research-Audio-Bible/#Who is responsible for the creat
 
 [Interesting Conferences]
 
-[References](https://m1r4b3l.github.io/Research-Audio-Bible/#References)
+[References](https://m1r4b3l.github.io/Research-Audio-Bible/#7.References)
 
 
 # 1. Who is responsible for the creation of the Audio Bible?
