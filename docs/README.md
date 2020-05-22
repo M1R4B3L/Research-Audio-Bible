@@ -109,13 +109,13 @@ Most recommended naming convention are:
 
 **The Binding of Isaac**
 
-It follows a naming convention (Whitespaces are not recommended). 
+The folder organization is a bit messy, they follow a naming convention but whitespaces are not recommended. 
 
 ![issac_music](https://user-images.githubusercontent.com/45202028/82586621-25d0da00-9b98-11ea-90ac-d3bebb10b8b6.jpg)
 
 **Terraria**
 
-It follows a naming convention in this case a combination between Pascal and Snake case. 
+It follows a naming convention in this case a combination between Pascal and Snake case. They don't have a folder organization.
 
 ![terraria](https://user-images.githubusercontent.com/45202028/82586636-2cf7e800-9b98-11ea-8e0d-c69ea84c2e43.jpg)
 
