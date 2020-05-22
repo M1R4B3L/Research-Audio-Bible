@@ -61,18 +61,17 @@ Are they small little bunnies? A Gigantic Boss? or a Plant?
 **_Player/Creatures/Enemies:_** The player is going to have a voice, the enemies? The creatures are voice modifications?
 
 ### Technology:
-You need to take into account the platform you are creating the game for and the sound extension.
 
-**.OGG** for Music 
+Technology is an important aspect; you need to consider whitch libraries, audio formats and audio management for the game you will be working in.
 
+**Example**
+In our case we are using SDL_Mixer.
+Audio formats:
 
+.OGG for Music.  ![ogg](https://user-images.githubusercontent.com/45202028/82651035-e51aa480-9c1b-11ea-92af-839207b1ac21.png)
+.WAV for Effects. ![wav](https://user-images.githubusercontent.com/45202028/82651038-e5b33b00-9c1b-11ea-89bd-196406c0cfd9.png)
 
-**.WAV** for Effects 
-
-
-
-In this part you should talk about how the sound is going to be implemented in your game, audio transitions and spatial music is a good option for your project. Your music is going to loop? How are you going to handle the superposition of the audio?
-A good way to handle your music is diving it in Layers at least 4 layers explaining in each one what are you going to reproduce there.
+We have Spatial Audio to control entities distance.
 
 ### Reference Material
 
