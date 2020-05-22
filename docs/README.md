@@ -52,20 +52,22 @@ A brief description about a set of features that will be taken into account duri
 
 **_Ambience:_** How complex and layered is the world sound that is around the user?Are you on a sci-fi alien planet with moaning winds and twisting thunder crackling around in the skies above? Material?
 
-  - [Zelda backround sound effects](https://www.youtube.com/watch?v=YFSP_DVifUA)
+  - [Zelda backround sound effects](http://noproblo.dayjo.org/ZeldaSounds/)
 
 **_Player:_** Basic player action effect like running, jumping...
 
   - [Mario Jump effect](https://www.youtube.com/watch?v=ZrP-30MmpvM)
 
-**_Creatures/Enemies/Obstacles:_** What sort of “encounters” will the player come across?
-Are they small little bunnies? A Gigantic Boss? or a Plant?   
+**_Entities:_** All the sound effects produced by the differents entities around the player. Will the player come across?
+Are they small little bunnies? A Gigantic Boss? or a Plant?  
 
-  - [Factorio machines](https://www.youtube.com/watch?v=pttCl-7KoGI)
+ - [Zelda Ganon getting hit](http://noproblo.dayjo.org/ZeldaSounds/)
+
+ - [Factorio machines](https://www.youtube.com/watch?v=pttCl-7KoGI)
 
 **_UI elements:_** You need some UI audio triggers for creating a more accessible and fancy to the user.
 
-  - [Nintendo WII soud UI sound effects](https://www.youtube.com/watch?v=rMDW4jYuYAU)
+ - [Nintendo WII soud UI sound effects](https://www.youtube.com/watch?v=rMDW4jYuYAU)
 
 ## Voice Over
 
