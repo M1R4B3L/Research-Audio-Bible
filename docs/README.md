@@ -38,7 +38,7 @@ A brief description about a set of features that will be taken into account duri
 
 **_How do you want to make the audience feel?:_** Description about the theme, Dark for suspense? What feeling you want to create to the audience
 
- - Feel powerfull like a viking [Dragonborn-Skyrim](https://www.youtube.com/watch?v=6fILxnBH1Tg) 
+ [x] Feel powerfull like a viking [Dragonborn-Skyrim](https://www.youtube.com/watch?v=6fILxnBH1Tg) 
  
  ![skyrim](https://user-images.githubusercontent.com/45202028/82690523-ace78600-9c5c-11ea-92e5-928c32964d7b.jpg)
 
