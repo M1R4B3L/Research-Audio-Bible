@@ -19,7 +19,7 @@ I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CI
 [References](https://m1r4b3l.github.io/Research-Audio-Bible/#References)
 
 
-# Who is responsible for the creation of the Audio Bible?
+# 1.Who is responsible for the creation of the Audio Bible?
 
 The Audio Bible is a document created by the Audio Director and the Sound Designer; always maintaining a close collaboration with the director of the project, the art team and the design team.
 That collaboration is crucial, being the main problem in indie companies.
@@ -37,7 +37,7 @@ The end result, hopefully, is a harmonious one… working with and enhancing gra
 writing, game design, and the overall gaming experience. 
 (Keith Ziza 2000).
 ```
-# How it affects the creation of audio?
+# 2.How it affects the creation of audio?
 As I said before it’s a team effort with an attention to detail that puts the audio experience over the top.  When you’re establishing your audio vision, make sure that you are taking the elements of Music, Sound-Design (Effects), Voice-Over, and Technology into account.  Each element has their subcomponents and everything needs to work together to make for the most cohesive experience.  If one element is neglected or “tacked-on”, it can throw your entire audio direction into disarray.
 
 This is a list of parameters/questions you need to take into account while selecting/designing your audio.
@@ -95,7 +95,7 @@ Audio formats:
 We have Spatial Audio to control entities distance.
 
 
-# How to obtain game audio
+# 3.How to obtain game audio
 
 Game audio can be obtained through differents ways.
 
@@ -140,7 +140,7 @@ Remember the music should be royalty free.
 [PlayOnLoop](https://www.playonloop.com/royalty-free-music/)
 
 
-# Naming and Folder Organization
+# 4.Naming and Folder Organization
 
 Organizating your audio is crucial for your group, the programmer have to know which audio should be used, at what time and how is it going to be applied in the game. 
 A good naming and folder structe will make the aspects mentioned before easier to complete.
@@ -179,15 +179,15 @@ It follows a naming convention in this case a combination between Pascal and Sna
 ![terraria](https://user-images.githubusercontent.com/45202028/82586636-2cf7e800-9b98-11ea-8e0d-c69ea84c2e43.jpg)
 
 
-# Audio Bible Example
+# 5.Audio Bible Example
 [Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
 
-# Interesting conferences
+# 6.Interesting conferences
 [Jonathan Wayer](https://www.youtube.com/watch?v=7p9rqo2I_Hs)
 
 [Bjørn Jacobsen](https://www.youtube.com/watch?v=HLOmk6ly_CE&t=829s)
 
-# References
+# 7.References
 [Asoundeffect Game Audio](https://www.asoundeffect.com/game-audio-design-document/)
 
 [Guide by Zachary Quarles](http://zacharyquarles.com/blog/?p=518)
