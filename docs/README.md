@@ -2,6 +2,23 @@
 
 I am [Adrián Mirabel](https://www.linkedin.com/in/m1r4b3l/), Student of the [CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/) Balchelor's Degree in Video Games by UPC at CITM. This content is genereated for the second year's subject Project 2, under supervision of lecturer [Ramon Santamaria](https://www.linkedin.com/in/raysan/).
 
+## Index
+
+[Who is responsible for the creation of the Audio Bible?]
+
+[How it affects the creation of audio?]
+
+[How to obtain game audio]
+
+[Naming and Folder organization]
+
+[Audio Bible example]
+
+[Interesting Conferences]
+
+[References]
+
+
 ## Who is responsible for the creation of the Audio Bible?
 
 The Audio Bible is a document created by the Audio Director and the Sound Designer; always maintaining a close collaboration with the director of the project, the art team and the design team.
@@ -162,8 +179,13 @@ It follows a naming convention in this case a combination between Pascal and Sna
 ![terraria](https://user-images.githubusercontent.com/45202028/82586636-2cf7e800-9b98-11ea-8e0d-c69ea84c2e43.jpg)
 
 
-## Examples
+## Audio Bible Example
 [Ashlee McCarthy Audio Bible](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
+
+## Interesting conferences
+[Jonathan Wayer](https://www.youtube.com/watch?v=7p9rqo2I_Hs)
+
+[Bjørn Jacobsen](https://www.youtube.com/watch?v=HLOmk6ly_CE&t=829s)
 
 ## References
 [Asoundeffect Game Audio](https://www.asoundeffect.com/game-audio-design-document/)
@@ -185,11 +207,3 @@ It follows a naming convention in this case a combination between Pascal and Sna
 [Audio Organization](https://annesoaudio.com/2016/07/07/game-audio-asset-naming-and-organisation/)
 
 [Template](https://docs.google.com/spreadsheets/d/1Nbn7e6UWmtJ4XOHbYsWqGUJNTdJXgSUZLlATrdIarSM/edit#gid=0)
-
-## Interesting conferences
-[Jonathan Wayer](https://www.youtube.com/watch?v=7p9rqo2I_Hs)
-
-[Bjørn Jacobsen](https://www.youtube.com/watch?v=HLOmk6ly_CE&t=829s)
-
-
-
