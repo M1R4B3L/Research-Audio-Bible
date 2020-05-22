@@ -78,7 +78,7 @@ Audio formats:
 We have Spatial Audio to control entities distance.
 
 
-## How I obtain my game audio
+## How to obtain game audio
 
 Game audio can be obtained through differents ways.
 
